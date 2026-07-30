@@ -9,6 +9,8 @@
 !/zkai/**
 !/tests/
 !/tests/**
+!/conftest.py
+!/pyproject.toml
 
 # Python bytecode and build artifacts
 __pycache__/
